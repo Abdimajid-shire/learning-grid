@@ -16,8 +16,12 @@ section {
     margin: 0 4rem;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: 1fr 1fr;
-    gap:.5rem;
+    grid-template-rows: 250px 250px;
+    gap:1rem;
+}
+
+.card {
+    padding: 1rem;
 }
 
 
